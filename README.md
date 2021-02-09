@@ -1,3 +1,3 @@
 # DetaAgus
 
-Normal people, just <b> Assssuu </b>
+Normal people, just Assssuu
