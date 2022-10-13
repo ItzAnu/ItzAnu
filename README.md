@@ -1,3 +1,3 @@
 # DetaAgus
 
-Normal people, just Assssuu
+Normal people, just being complete life
