@@ -1,3 +1,3 @@
 # DetaAgus
 
-Normal people, just being complete life
+Normal people, just want to exit the life
