@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **html, css, php :D**
 
-- 📫 How to reach me **detaagus5@gmail.com**
+- 📫 How to reach me **detaagus6@gmail.com**
 
-- ⚡ Fun fact **I think I lost my..**
+- ⚡ Fun fact **Let me guess, Someone stole your sweetroll..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
