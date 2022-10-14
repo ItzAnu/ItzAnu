@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ItzAnu?tab=repositories](https://github.com/ItzAnu?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Github Repo](https://github.com/ItzAnu?tab=repositories)
 
 - 💬 Ask me about **html, css, php :D**
 
