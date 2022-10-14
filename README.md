@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Python and Laravel**
 
-- 👯 I’m collaborate with [NaturaAdnyana](https://github.com/NaturaAdnyana) on [Website Undangan](https://github.com/NaturaAdnyana/website-undangan)
-
 - 👨‍💻 All of my projects are available at [https://github.com/ItzAnu?tab=repositories](https://github.com/ItzAnu?tab=repositories)
 
 - 💬 Ask me about **html, css, php :D**
